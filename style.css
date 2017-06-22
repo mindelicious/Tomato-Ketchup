@@ -1,0 +1,44 @@
+.jumbotron {
+    padding-top: 50px; 
+    background: url(https://images.pexels.com/photos/8217/night-tomato.jpg?w=3060&h=750&auto=compress&cs=tinysrgb) no-repeat center center;
+    background-size: cover;
+    height: 100vh;
+    background-position: center bottom;
+}
+.vertical-center {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+.jumbotron h1,
+.jumbotron h1 small{
+    color: red;
+}
+.media {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.taste {
+    padding-bottom: 15px;
+}
+.heinz {
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+.heinz a {
+    background-color: darkred;
+    text-decoration: none;
+    color: white;
+    border: none;
+}
+.heinz a:hover {
+    background-color: red;
+    color: white;
+}
+h5 .badge {
+    background-color: lightpink;
+    color: brown;
+}
+.secgall {
+    padding-top: 15px;
+}
